@@ -10,7 +10,7 @@ Learn how to log into your Sling TV account with ease. Step-by-step login help, 
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: log-into-sling-tv-account
+   :target: https://tvsling.net/
 
 If you’re trying to log into your Sling TV account and don’t know where to start or are running into issues, you’re not alone. Sling TV has quickly become one of the most popular choices for streaming live TV without the hassle of cable, but getting to your favorite content starts with a successful login. In this article, we’ll guide you through how to log into Sling TV account easily, explain common issues, and answer key questions many users face.
 
