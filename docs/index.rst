@@ -6,7 +6,7 @@ How Do I Log Into My Sling TV Account Easily?
    :caption: Contents:
 Learn how to log into your Sling TV account with ease. Step-by-step login help, troubleshooting, and FAQs to improve your streaming experience.
  
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
